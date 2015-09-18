@@ -95,7 +95,7 @@
       etaRestriction: false,
       welcome: true,
       opLink: null,
-      rulesLink: null,
+      rulesLink: Veja na descrição da sala,
       themeLink: null,
       fbLink: null,
       youtubeLink: null,
